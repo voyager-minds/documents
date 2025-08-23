@@ -9,22 +9,23 @@
 ## 3. Role & Work Allocations per Person
 
 
-| Tasks                            | CB017593 | CB017594 | CB017595 |
-| -------------------------------- | -------- | -------- | -------- |
-| Requirement Specification        | 33%      | 33%      | 33%      |
-| Design Documents                 | 33%      | 33%      | 33%      |
-| Development                      | 33%      | 33%      | 33%      |
-| Testing/Test Plans               | 33%      | 33%      | 33%      |
-| Change Management System         | 33%      | 33%      | 33%      |
-| Version Control System           | 33%      | 33%      | 33%      |
-| Repository Schema                | 33%      | 33%      | 33%      |
-| User Guide                       | 33%      | 33%      | 33%      |
-| Project Plan                     | 33%      | 33%      | 33%      |
-| Costing                          | 33%      | 33%      | 33%      |
-| Risk Assessment                  | 33%      | 33%      | 33%      |
-| Meeting Log Book                 | 33%      | 33%      | 33%      |
-| Documentation                    | 33%      | 33%      | 33%      |
-| **Total Contribution (Pledged)** | 429%     | 429%     | 429%     |
+| Tasks | CB017593 | CB017593 | CB017594 | CB017594 | CB017595 | CB017595 |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | Pledge(%) | Actual(%) | Pledge(%) | Actual(%) | Pledge(%) | Actual(%) |
+| Requirement Specification | 33 |   | 33 |   | 33 |   |
+| Design Documents | 33 |   | 33 |   | 33 |   |
+| Development | 33 |   | 33 |   | 33 |   |
+| Testing/Test Plans | 33 |   | 33 |   | 33 |   |
+| Change Management System | 33 |   | 33 |   | 33 |   |
+| Version Control System | 33 |   | 33 |   | 33 |   |
+| Repository Schema | 33 |   | 33 |   | 33 |   |
+| User Guide | 33 |   | 33 |   | 33 |   |
+| Project Plan | 33 |   | 33 |   | 33 |   |
+| Costing | 33 |   | 33 |   | 33 |   |
+| Risk Assessment | 33 |   | 33 |   | 33 |   |
+| Meeting Log Book | 33 |   | 33 |   | 33 |   |
+| Documentation | 33 |   | 33 |   | 33 |   |
+| **Total Contribution (Pledged-Actual)** | 429 |   | 429 |   | 429 |   |
 
 ---
 
