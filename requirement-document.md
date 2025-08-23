@@ -4,13 +4,10 @@
 
 ![Gantt_chart.png](images/Gantt_chart.png)
 
-_The project begins on 24th August 2025 and runs in parallel across three team members. Tasks such as Requirement Specification, Design, Development, Testing, and Documentation are distributed equally. Each sprint lasts 2 weeks with milestones aligned to ClickUp dashboards._
-
 ---
 
 ## 3. Role & Work Allocations per Person
 
-Each team member is equally responsible (33%) across all tasks, with actual contribution to be tracked during project execution.
 
 | Tasks                            | CB017593 | CB017594 | CB017595 |
 | -------------------------------- | -------- | -------- | -------- |
@@ -63,7 +60,6 @@ Each team member is equally responsible (33%) across all tasks, with actual cont
 | Retrospective    | Bi-weekly       | Zoom            | Reflect on process, suggest improvements |
 | Stakeholder Sync | Monthly         | Hybrid          | Present progress, discuss risks          |
 
-📌 _All meeting notes are documented in ClickUp Wiki._
 
 ---
 
