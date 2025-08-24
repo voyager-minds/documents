@@ -34,7 +34,7 @@
 ### Task Allocation & Tracking
 
 - **Platform**: ClickUp
-- **Methodology**: Agile Scrum
+- **Methodology**: Agile Kanban
 - **Sprint Duration**: 2 weeks
 - **Task Assignment**: Tasks assigned via ClickUp based on sprint goals and team capacity
 - **Tracking**: Status updates, priority tags, and dependencies managed within ClickUp
@@ -57,8 +57,8 @@
 | ---------------- | --------------- | --------------- | ---------------------------------------- |
 | Daily Stand-up   | Daily (15 mins) | Online (Teams)  | Quick updates, blockers, task progress   |
 | Sprint Planning  | Bi-weekly       | ClickUp + Teams | Define sprint goals and assign tasks     |
-| Sprint Review    | Bi-weekly       | Zoom            | Demo completed work, gather feedback     |
-| Retrospective    | Bi-weekly       | Zoom            | Reflect on process, suggest improvements |
+| Sprint Review    | Bi-weekly       | Teams           | Demo completed work, gather feedback     |
+| Retrospective    | Bi-weekly       | Teams           | Reflect on process, suggest improvements |
 | Stakeholder Sync | Monthly         | Hybrid          | Present progress, discuss risks          |
 
 
@@ -82,7 +82,7 @@
   - Link commits to ClickUp tasks using task IDs
 
 - **Review Policy**: At least 2 approvals required before merging into `develop`.
-- **Code Style**: Prettier + ESLint for JS/TS, Black for Python.
+- **Code Style**: Prettier + ESLint for JS/TS.
 
 - **Responsibility**:
 
