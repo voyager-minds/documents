@@ -1,14 +1,27 @@
 ## 6. Projected Costing
 
-| Category                | Projected Costing | Notes                                   |
-| ----------------------- | ----------------- | --------------------------------------- |
-| Design & UI/UX          | $3000-$8000       | Responsive design, branding             |
-| Frontend Development    | $5000-$15000      | Angular Framework                       |
-| Backend Development     | $7000-$20000      | APIs, database, user auth, review logic |
-| Database and Hoisting   | $500-$2000/year   | Firebase, AWS                           |
-| Testing and QA          | $100-$3000        | Manual + automated Testing              |
-| Maintenance and Updates | $1000-$5000/year  | Bug fixes, add new features             |
-| Legal and Compliance    | $1000-$3000       | Privacy policy, terms of use            |
+| Category                | Sub-Category / Task               | Projected Costing    | Notes / Details                          |
+| ----------------------- | --------------------------------- | -------------------- | ---------------------------------------- |
+| **Design & UI/UX**      | Wireframing & Prototyping         | $1000 - $2000        | Low-fidelity and high-fidelity mockups   |
+|                         | Branding & Logo Design            | $500 - $1500         | Brand identity, color scheme, typography |
+|                         | Responsive UI Design              | $1500 - $4500        | Multi-device compatibility, accessibility|
+| **Frontend Development**| Angular Setup & Architecture      | $1000 - $3000        | Project structure, reusable components   |
+|                         | Core Feature Implementation       | $3000 - $9000        | UI screens, navigation, forms            |
+|                         | Integrations & Optimizations      | $1000 - $3000        | API integration, performance tuning      |
+| **Backend Development** | API Development                   | $2000 - $6000        | REST/GraphQL endpoints, business logic   |
+|                         | Database Design & Integration     | $1500 - $4000        | Schema, migrations, queries              |
+|                         | User Authentication & Security    | $2000 - $5000        | Login, role-based access, encryption     |
+|                         | Review Logic & Workflows          | $1500 - $5000        | Custom features, automation rules        |
+| **Database & Hosting**  | Database Hosting (Firebase / RDS) | $200 - $800 / year   | Scalable, managed DB service             |
+|                         | Server / Hosting (AWS / Firebase) | $300 - $1200 / year  | App hosting, load balancing              |
+| **Testing & QA**        | Manual Testing                    | $100 - $1000         | Functional, UI/UX, exploratory testing   |
+|                         | Automated Testing & CI/CD         | $1000 - $2000        | Unit, integration, end-to-end tests      |
+| **Maintenance & Updates** | Bug Fixes                       | $500 - $1500 / year  | Regular issue resolution                 |
+|                         | Security Patches                  | $200 - $800 / year   | Ongoing compliance & vulnerability fixes |
+|                         | Adding New Features               | $300 - $2700 / year  | Enhancements, iterative development      |
+| **Legal & Compliance**  | Privacy Policy & Terms of Use     | $500 - $1000         | Drafting required documents              |
+|                         | Legal Consultation & Compliance   | $500 - $2000         | GDPR, CCPA, data security compliance     |
+
 
 ## 7. Risk Assessment
 
